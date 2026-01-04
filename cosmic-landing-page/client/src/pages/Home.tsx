@@ -271,9 +271,9 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Sparkles className="w-5 h-5 text-primary" />
-                <span className="font-bold">GAPLESS</span>
+                <span className="font-bold">GAPLESS [-]</span>
               </div>
-              <p className="text-foreground/60 text-sm">Journey through the infinite cosmos.</p>
+              <p className="text-foreground/60 text-sm">Gladly - shpx lbh, GVH</p>
             </div>
             {[
               { title: "Name", links: ["SRIJIB ", "AFSANA", "bhadwa college"] },
