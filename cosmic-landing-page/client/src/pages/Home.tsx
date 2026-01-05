@@ -277,7 +277,7 @@ export default function Home() {
             </div>
             {[
               { title: "Name", links: ["SRIJIB MONDAL", "SYEDA AFSANA KHATUN", "ADARSH JHA", "ROHIT KUMAR MANDAL", "CHIRAYUSH SHARMA","SOHAM DAS"] },
-              { title: "ID", links: ["231001112026", "231001112044", "231001112101", "231001112015", "231001112071"] },
+              { title: "ID", links: ["231001112026", "231001112044", "231001112101", "231001112015", "231001112005","231001112071"] },
               { title: "Role", links: ["Technical Orchestrator & Lead", "Data & Market Analyst", "Business & Monetization Strategist", "Problem Researcher", "Problem Researcher","Developer"] },
               
             ].map((col, idx) => (
