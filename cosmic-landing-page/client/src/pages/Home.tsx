@@ -276,9 +276,10 @@ export default function Home() {
               <p className="text-foreground/60 text-sm">Gladly - shpx lbh, GVH</p>
             </div>
             {[
-              { title: "Name", links: ["SRIJIB ", "AFSANA", "bhadwa college"] },
-              { title: "ID", links: ["231001112026", "231001112044", "Careers"] },
-              { title: "Role", links: ["Privacy", "Terms", "Contact"] },
+              { title: "Name", links: ["SRIJIB MONDAL", "SYEDA AFSANA KHATUN", "ADARSH JHA", "ROHIT KUMAR MANDAL", "CHIRAYUSH SHARMA","SOHAM DAS"] },
+              { title: "ID", links: ["231001112026", "231001112044", "231001112101", "231001112015", "231001112071"] },
+              { title: "Role", links: ["Technical Orchestrator & Lead", "Data & Market Analyst", "Business & Monetization Strategist", "Problem Researcher", "Problem Researcher","Developer"] },
+              
             ].map((col, idx) => (
               <div key={idx}>
                 <h4 className="font-semibold mb-4">{col.title}</h4>
@@ -295,7 +296,7 @@ export default function Home() {
             ))}
           </div>
           <div className="border-t border-border/50 pt-8 text-center text-foreground/60">
-               <p className="text-base font-bold">&copy; 2025. Please, Take our L - [love💖].</p>
+               <p className="text-base font-bold">&copy; 2025. Kindly, Accept our L "love"💖.</p>
           </div>
         </div>
       </footer>
