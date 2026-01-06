@@ -296,7 +296,7 @@ export default function Home() {
             ))}
           </div>
           <div className="border-t border-border/50 pt-8 text-center text-foreground/60">
-               <p className="text-base font-bold">&copy; 2025. Kindly, Accept our L "love"💖.</p>
+               <p className="text-base font-bold">&copy; 2025. Kindly, Accept our L love 💖.</p>
           </div>
         </div>
       </footer>
